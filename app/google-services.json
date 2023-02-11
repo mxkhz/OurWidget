@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598159737817",
+    "firebase_url": "https://android-test-20601-default-rtdb.firebaseio.com",
+    "project_id": "android-test-20601",
+    "storage_bucket": "android-test-20601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598159737817:android:268b426ea527c7588c0fc8",
+        "android_client_info": {
+          "package_name": "com.dbtech.ourwidget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598159737817-p0eo3piag9tffugrpoqfnhkk35r2af2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2dRVR1q8ajB2l3FwatUqczx7A9Nzc7kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598159737817-p0eo3piag9tffugrpoqfnhkk35r2af2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".AddMemberFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <EditText
+        android:hint="Member email"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/member_email"
+        />
+    <TextView
+        android:id="@+id/not_valid_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email address not valid"
+        android:textColor="@color/red"
+        android:visibility="gone" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Member"
+        android:id="@+id/add_member_button"
+        />
+
+</LinearLayout>
